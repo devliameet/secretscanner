@@ -36,15 +36,28 @@ Findings can be automatically sent to a *Discord webhook*, including a screensho
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9005464c-b048-49b0-b2b5-59ef6c95e083" alt="Screenshot 1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/daace344-24d9-41fa-9710-365c6104cb9b" alt="Screenshot 2" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/abdf05f8-a109-4f46-8ae6-85e25d2e5d3a" alt="Screenshot 3" width="45%" />
-  <img src="https://github.com/user-attachments/assets/f0099ca3-aa72-428f-aa1b-9015aa76df40" alt="Screenshot 4" width="45%" />
-</p>
+<table align="center" cellspacing="20">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9005464c-b048-49b0-b2b5-59ef6c95e083" alt="Screenshot 1" width="250px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
+      <br><sub>Configure webhook and target</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/daace344-24d9-41fa-9710-365c6104cb9b" alt="Screenshot 2" width="450px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
+      <br><sub>Popup alert found</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/abdf05f8-a109-4f46-8ae6-85e25d2e5d3a" alt="Screenshot 3" width="450px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
+      <br><sub>Open console view results</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f0099ca3-aa72-428f-aa1b-9015aa76df40" alt="Screenshot 4" width="450px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
+      <br><sub>Results discord</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
