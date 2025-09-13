@@ -1,3 +1,8 @@
+<p align="right">
+🌐 Idiomas: 
+<a href="README.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"> English</a> | 
+<a href="README.pt-BR.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20"> Português</a>
+</p>
 <h1 align="center">
 <b>Secret Scanner para Firefox 🔒</b>
 </h1>
